@@ -17,7 +17,7 @@ class MyDocument extends Document {
     const FAV_ICON36 = config.FAV_ICON36;
     const DEFAULT_LANGUAGE = config.DEFAULT_LANGUAGE;
     const APP_URL = config.APP_URL;
-    const OG_IMAGE = config.OG_IMAGE;
+    const OG_IMAGE = config.APP_URL + config.OG_IMAGE;
 
     return (
       <Html lang={DEFAULT_LANGUAGE}>

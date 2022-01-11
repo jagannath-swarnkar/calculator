@@ -38,6 +38,3 @@
 #### #Extra features (components)
 - Push notifications (firebase)
 - MQTT integration
-- # calculator
-# calculator
-# calculator
